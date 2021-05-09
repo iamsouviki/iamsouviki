@@ -9,11 +9,12 @@
 
 - 🌱 I’m currently learning **Flutter , React , NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://souvikportfolio.web.app](https://souvikportfolio.web.app)
+- 👨‍💻 All of my projects are available at [  My Portfolio  ](https://souvikportfolio.web.app)
 
 - 💬 Ask me about **ANDROID DEVELOPMENT,JAVA**
 
 - 📫 How to reach me **souvikghosh687@gmail.com**
+- 📄 Know about my experiences [    My Resume  ](https://drive.google.com/file/d/1qv0c9WHFYHNGM4U5ccnKkrHo6AkvMYfz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
