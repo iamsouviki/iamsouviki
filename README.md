@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamsouviki" target="blank"><img src="https://img.shields.io/twitter/follow/iamsouviki?logo=twitter&style=for-the-badge" alt="iamsouviki" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , React , NodeJs**
+- 🌱 I’m currently learning **Java Springboot , Flutter , React , NodeJs**
 
 - 👨‍💻 All of my projects are available at : [  My Portfolio  ](https://souvikportfolio.web.app)
 
-- 💬 Ask me about     **Flutter , Dart , ANDROID DEVELOPMENT , JAVA**
+- 💬 Ask me about     **Java Backend Developer, Flutter , Dart , ANDROID DEVELOPMENT , JAVA**
 
 - 📫 How to reach me **souvikghosh687@gmail.com**
 - 📄 Know about my experiences :  [    My Resume  ](https://drive.google.com/file/d/1qv0c9WHFYHNGM4U5ccnKkrHo6AkvMYfz/view?usp=sharing)
